@@ -37,8 +37,8 @@ Note: The dataset and labels are in Spanish. This may make mistakes
 1. **Clone the repository**
 
    ```git
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/CodriXAI/mini-chatbot.git
+   cd mini-chatbot
    ```
 2. **Run the app**
     ```bash
